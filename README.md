@@ -1,4 +1,4 @@
-# Aureum
+# Aureum ⭐
 
 **Aureum** turns raw CSVs into clear insights.  
 - 🔍 Automatic profiling of columns and distributions  
